@@ -10,7 +10,6 @@ public class UC1 {
         x1 = sc.nextInt();
         System.out.println("Enter x2 value");
         x2 = sc.nextInt();
-
         System.out.println("Enter y1 value");
         y1 = sc.nextInt();
         System.out.println("Enter y2 value");
